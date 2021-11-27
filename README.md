@@ -3,7 +3,7 @@
 I like to keep a notebook of plotters, blotters and data beaters, so that I don't forget how to use them.
 
 
-## Local setup with Jypter
+## Local setup with deps
 
 This repository has its own dependencies for the visuals.
 
