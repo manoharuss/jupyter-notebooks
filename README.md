@@ -1,6 +1,6 @@
 # jupyter-notebooks
 
-I like to keep a notebook of plotters, blotters and data beaters, so that I don't forget how to use them.
+Notebook examples with using Seaborn plots
 
 
 ## Local setup with deps
